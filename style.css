@@ -1,15 +1,15 @@
 body {
-    background-color: lightskyblue;
+    background-color: rgb(255, 254, 178);
 }
 h1 {
     font-size: 30px;
-    color: darkslateblue;
+    color: rgb(0, 0, 0)
     font-family: monospace;
     text-align: center;
 }
 p {
     font-size: 20px;
-    color: darkslateblue;
+    color: rgb(0, 0, 0);
     font-family: monospace;
     text-align: center;
 }
